@@ -37,6 +37,7 @@ div.header, div.instructions{
 	float: left;
 	width: 15%;
 	height: 60px;
+	
 }
 .userTotal{
 	width: 15%;
@@ -44,6 +45,7 @@ div.header, div.instructions{
 }
 .gems{
 	clear: both;
+	background-image: url("../images/background.png");
 }
 .gemImage{
 	height: 60px;
